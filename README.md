@@ -27,7 +27,11 @@
   - [Does not minify during bundling files](https://github.com/swc-project/swc/issues/2451)
   - [Sourcemap output is absolute path, not relative to project root](https://github.com/swc-project/swc/issues/2149)
 
+## [microsoft/TypeScript]
+### Cons
+- Why are you using this with hoping fast and sane build results kthx gotta sleep gnight
 
 [Terser]: https://github.com/terser/terser
 [evanw/esbuild]: https://github.com/evanw/esbuild
 [swc-project/swc]: https://github.com/swc-project/swc
+[microsoft/TypeScript]: https://github.com/microsoft/TypeScript
