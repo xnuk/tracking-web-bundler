@@ -10,7 +10,7 @@
   - modifying AST (which means babel-like plugin system)
   - hot module reloading
   - [These are officially non-goal for esbuild](https://github.com/esbuild/esbuild.github.io/blob/31423c64748bb35f94d3760ed24aaa31b4e8c961/src/content/faq.yml#L228-L239)
-- [HTML entry point](https://github.com/evanw/esbuild/issues/31), or regular text file output
+- No [HTML entry point](https://github.com/evanw/esbuild/issues/31), or regular text file output
 - [No support for `react-jsx` transform](https://github.com/evanw/esbuild/issues/334)
 - Minifier isn't that good; have to pass into [Terser] once after esbuild minify
 
