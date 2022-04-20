@@ -13,6 +13,7 @@
 - No [HTML entry point](https://github.com/evanw/esbuild/issues/31), or regular text file output
 - [No support for `react-jsx` transform](https://github.com/evanw/esbuild/issues/334)
 - Minifier isn't that good; have to pass into [Terser] once after esbuild minify
+- [Doesn't care about preserving comments](https://github.com/evanw/esbuild/issues/516#issuecomment-725093126)
 
 ## [swc-project/swc](https://github.com/swc-project/swc)
 ### Pros
